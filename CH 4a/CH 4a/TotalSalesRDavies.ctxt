@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TotalSalesRDavies
+comment0.text=\r\n@Description\r\n\ \ \ This\ program\ calculates\ a\ running\ total.\r\n\r\n@author\ Ryan\ Davies\ \ \ \r\n@version\ 10/8/2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

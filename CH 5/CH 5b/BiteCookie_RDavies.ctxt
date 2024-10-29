@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BiteCookie_RDavies
+comment0.text=\r\n\ Description\r\n\ ______________________\r\n\ ______________________\r\n\ @author\ Ryan\ Davies\r\n\ @version\ 10/22/2024\ \ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ bite()
+comment3.params=
+comment3.target=void\ biteMethods1()
+comment4.params=scrn
+comment4.target=void\ setup(Draw)
+comment5.params=scrn
+comment5.target=void\ showTitle(Draw)
+comment6.params=scrn
+comment6.target=void\ drawCookie(Draw)
+numComments=7

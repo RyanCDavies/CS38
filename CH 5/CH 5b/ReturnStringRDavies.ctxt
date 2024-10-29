@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ReturnStringRDavies
+comment0.text=\r\n\ \ \ This\ program\ demonstrates\ a\ method\ that\r\n\ \ \ returns\ a\ reference\ to\ a\ String\ object.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=first\ last
+comment2.target=java.lang.String\ fullName(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ The\ fullName\ method\ accepts\ two\ String\ arguments\r\n\ \ \ \ \ \ containing\ a\ first\ and\ last\ name.\ It\ concatenates\r\n\ \ \ \ \ \ them\ into\ a\ single\ String\ object.\r\n\ \ \ \ \ \ @param\ first\ The\ first\ name.\r\n\ \ \ \ \ \ @param\ last\ The\ last\ name.\r\n\ \ \ \ \ \ @return\ A\ reference\ to\ a\ String\ object\ containing\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ first\ and\ last\ names.\r\n
+numComments=3

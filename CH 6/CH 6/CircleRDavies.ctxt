@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CircleRDavies
+comment0.text=\r\n\ Description\r\n\ ______________________\r\n\ ______________________\r\n\ @author\ Ryan\ Davies\r\n\ @version\ 11/5/2024\r\n
+comment1.params=
+comment1.target=CircleRDavies()
+comment2.params=newValue
+comment2.target=void\ setRadius(int)
+comment3.params=
+comment3.target=double\ getRadius()
+comment4.params=
+comment4.target=double\ getDiameter()
+comment5.params=
+comment5.target=double\ getCircumference()
+comment6.params=
+comment6.target=void\ drawMe()
+numComments=7

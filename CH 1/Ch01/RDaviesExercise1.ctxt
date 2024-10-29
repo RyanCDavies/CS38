@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RDaviesExercise1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RDaviesExercise1\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RDaviesExercise1\r\n
+comment2.params=
+comment2.target=void\ printExample()
+numComments=3

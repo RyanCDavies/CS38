@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FileWriteDemoRyanDavies
+comment0.text=\r\n\ \ \ This\ program\ writes\ data\ to\ a\ file.\r\n\ \ \ \r\n\ \ \ @author\ Ryan\ Davies\r\n\ \ \ @version\ \ 10/8/2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ fileWriteDemo()
+comment3.params=
+comment3.target=void\ fileReadDemo()
+comment4.params=
+comment4.target=void\ pyramid()
+numComments=5

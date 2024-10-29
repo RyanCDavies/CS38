@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HWLoops2RyanDavies
+comment0.text=\r\n\ Description\:\r\n\ Outputs\ the\ coding\ proactice\ challenges\ to\r\n\ the\ graphics\ screen\r\n\ \r\n\ Author\:\ Ryan\ Davies\r\n\ Version\:\ 10/3/2024\r\n
+comment1.params=
+comment1.target=void\ beachSunset()
+comment2.params=
+comment2.target=void\ diceGame()
+numComments=3

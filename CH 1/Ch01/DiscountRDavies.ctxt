@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DiscountRDavies
+comment0.text=\r\n\ Description\ \r\n\ This\ program\ calculates\ the\ sale\ price\ of\ \r\n\ an\ item\ that\ is\ regularly\ priced\ at\ $59,\ \r\n\ with\ a\ 20\ percent\ discount\ subtracted.\r\n\ ref\:\ pg\ __________\ \r\n\ @author\ Ryan\ Davies\r\n\ @version\ 9-3-24\r\n
+comment1.params=
+comment1.target=void\ discount()
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BooksPerMonthRDavies
+comment0.text=\r\n\ Description\r\n\ This\ program\ demonstrates\ how\ a\ cast\ operator\r\n\ can\ be\ used\ to\ prevent\ integer\ division.\r\n\ ref\:\ pg\ __________\r\n\ @author\ Ryan\ Davies\r\n\ @version\ 9-3-24\r\n
+comment1.params=
+comment1.target=void\ books()
+numComments=2

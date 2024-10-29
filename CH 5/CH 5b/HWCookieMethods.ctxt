@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HWCookieMethods
+comment0.text=\r\n\ Description\r\n\ \r\n\r\n\r\n\ @author\ Ryan\ Davies\r\n\ @version\ 10/17/2024\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=win\ x\ y
+comment2.target=void\ drawCookie(Draw,\ double,\ double)
+comment3.params=win\ x\ y
+comment3.target=void\ biteCookie(Draw,\ double,\ double)
+numComments=4
