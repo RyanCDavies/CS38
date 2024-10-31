@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestStringRDavies
+comment0.text=\r\n\ Description\ \r\n\ creats\ two\ strings\ "LA\ Dodgers"\ and\ "NY\ Yankees",\ then\ outputs\r\n\ the\ length\ of\ "LA\ Dodgers",\ the\ first\ two\ characters\ of\ "NY\ Yankees",\r\n\ and\ the\ string\ "LA\ Dodgers"\ in\ lowercase\r\n\ \r\n\ @author\ Ryan\ Davies\r\n\ @version\ 10/31/2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

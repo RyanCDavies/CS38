@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestDrawRDavies
+comment0.text=\r\n\ Description\ \r\n\ Draws\ a\ yellow\ draw\ screen\ and\ a\ white\ draw\ screen,\ waits\ 10\r\n\ seconds,\ then\ recolors\ the\ white\ screen\ to\ green\ and\ draws\ a\ circle\r\n\ \r\n\ @author\ Ryan\ Davies\r\n\ @version\ 10/31/2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

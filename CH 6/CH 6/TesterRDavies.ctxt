@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TesterRDavies
+comment0.text=\r\n\ Description\r\n\ test\ file\ for\ rolling\ two\ dice\ from\ the\ Dice_RD\ class\ in\ a\ simple\r\n\ dice\ game\r\n\r\n\ @author\ Ryan\ Davies\r\n\ @version\ 10/31/2024\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ testDice()
+comment3.params=
+comment3.target=void\ testClock()
+numComments=4
