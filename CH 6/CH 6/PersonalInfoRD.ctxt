@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PersonalInfoRD
+comment0.text=\r\n\ Stores\ an\ individual's\ name,\ age,\ address,\ and\ number.\r\n\ Provides\ accessor\ methods\ and\ mutator\ methods\ to\ get\ and\ set\r\n\ the\ stored\ values.\r\n\r\n\ @author\ Ryan\ Davies\r\n\ @version\ 11/7/2024\r\n
+comment1.params=
+comment1.target=int\ getAge()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getAddress()
+comment4.params=
+comment4.target=java.lang.String\ getNumber()
+comment5.params=value
+comment5.target=void\ setAge(int)
+comment6.params=value
+comment6.target=void\ setName(java.lang.String)
+comment7.params=value
+comment7.target=void\ setAddress(java.lang.String)
+comment8.params=value
+comment8.target=void\ setNumber(java.lang.String)
+numComments=9

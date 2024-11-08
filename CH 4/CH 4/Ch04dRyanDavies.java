@@ -1,5 +1,4 @@
 import java.awt.Font;
-import java.util.*;
 
 /**
  * Description 
@@ -30,7 +29,7 @@ public class Ch04dRyanDavies
         System.out.println("That's all!");
 
         //Graphics
-        
+
         Draw   scr = new Draw( );
         scr.setXscale(0,400);
         scr.setYscale(400,0);
@@ -40,30 +39,30 @@ public class Ch04dRyanDavies
         number = 1;
         while (number <= 200 )
         {
-        x = rnd.nextDouble( ) * 400;
-        y = rnd.nextDouble( ) * 380 + 10;
-        width  = 10;
-        height = 30;
-        //QQQ draw solid Red rectangles
-        //on left half of the screen and
-        //Green not solid rectangles on right half
-        if ( x < 200)
-        {
-            scr.setPenColor(Draw.RED);
-            scr.filledRectangle(x, y, width, height);
-        }
-        else
-        {
-            scr.setPenColor(Draw.GREEN);
-            scr.rectangle(x, y, width, height); 
-        }
-        
-        scr.rectangle(x,y,width,height);
+            x = rnd.nextDouble( ) * 400;
+            y = rnd.nextDouble( ) * 380 + 10;
+            width  = 10;
+            height = 30;
+            //QQQ draw solid Red rectangles
+            //on left half of the screen and
+            //Green not solid rectangles on right half
+            if ( x < 200)
+            {
+                scr.setPenColor(Draw.RED);
+                scr.filledRectangle(x, y, width, height);
+            }
+            else
+            {
+                scr.setPenColor(Draw.GREEN);
+                scr.rectangle(x, y, width, height); 
+            }
 
-        scr.pause(10);
-        number++;
+            scr.rectangle(x,y,width,height);
+
+            scr.pause(10);
+            number++;
         }
-        
+
     }
 
     //Code Listing 4-4
@@ -110,14 +109,14 @@ public class Ch04dRyanDavies
         double[] y = {  0, 200, 400, 200, 200};
         poly.filledPolygon(x,y);
     }
-    
+
     public static void flags()
     {
         Draw flag = new Draw();
         flag.setXscale(0,400);
         flag.setYscale(400,0);
         flag.clear(Draw.GRAY);
-        
+
         //flag of czechia
         //white rectangle
         flag.setPenColor(Draw.WHITE);
@@ -130,12 +129,12 @@ public class Ch04dRyanDavies
         double[] x = {10, 110, 10};
         double[] y = {200, 275, 350};
         flag.filledPolygon(x,y);
-        
+
         //flag of tanzania
         //from 0-175, then from 0-150
-        
+
     }
-    
+
     //New Topics: rgb colors, validation loop, 
     //set screen location
     public static void colorBalls1()   
@@ -193,7 +192,7 @@ public class Ch04dRyanDavies
         Random ran = new Random( );
         Scanner keyboard = new Scanner(System.in);
         int red, grn, blu; 
-        
+
         //New material for drawing polygons
         double x[] = {200, 250, 200, 150};
         double y[] = {0,   300, 400, 300};
@@ -242,5 +241,5 @@ public class Ch04dRyanDavies
     }
 
     //Copy nervousEyes method here and add a nose
-    
+
 }

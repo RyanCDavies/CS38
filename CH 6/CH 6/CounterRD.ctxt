@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CounterRD
+comment0.text=\r\n\ Create\ a\ counter\ that\ can\ be\ reset,\ incremented\ by\ 1,\ or\r\n\ have\ the\ stored\ value\ returned.\r\n\r\n\ @author\ Ryan\ Davies\r\n\ @version\ 11/7/2024\r\n
+comment1.params=
+comment1.target=CounterRD()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ increment()
+comment4.params=
+comment4.target=int\ getCount()
+numComments=5
